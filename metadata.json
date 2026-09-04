@@ -1,0 +1,6 @@
+{
+  "name": "PAI Ceria - Petualangan Belajar Islam",
+  "description": "Content Engine & Media Pembelajaran Interaktif PAI dan Budi Pekerti SD Kelas 1–6 berbasis Kepka BKPDM No. 020 Tahun 2026",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
